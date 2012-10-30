@@ -1,0 +1,1 @@
+java -Xmx1024M -Xms1024M -jar bukkit-1.2.5-R4.0.jar nogui.

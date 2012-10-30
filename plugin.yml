@@ -1,0 +1,25 @@
+name: Expbank
+main: meme.Expbank.Main
+version: 0.1
+
+commands:
+  checkid:
+    description: This command will show you your player ID
+    usage: /checkid
+    permission: Expbank.checkid
+    permission-message: You have to be a V.I.P. to use and need this.
+  gimme:
+    description: This command will show give you exp
+    usage: /gimme
+    permission: Expbank.gimme
+    permission-message: You have to be a V.I.P. to use and need this.
+  gimmy:
+    description: This command will show give you exp
+    usage: /gimmy
+    permission: Expbank.gimmy
+    permission-message: You have to be a V.I.P. to use and need this.   
+  checkexp:
+    description: This command will show you your exp
+    usage: /checkexp
+    permission: Expbank.checkexp
+    permission-message: You have to be a V.I.P. to use and need this.     
